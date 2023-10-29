@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: chartreuse;
+}
+
+table th {
+    background-color: blueviolet;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
